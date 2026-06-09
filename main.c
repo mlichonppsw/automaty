@@ -59,5 +59,6 @@ int main(){
 				break;
 		}
 		Delay(100);
+		//Dodaje komentarz
 	}
 }
